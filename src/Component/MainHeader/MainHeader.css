@@ -1,0 +1,21 @@
+.main-header {
+  margin-bottom: 40px;
+}
+.left-nev {
+  margin-left: 60px;
+}
+.header-items {
+  text-decoration: none;
+  margin: 10px;
+  color: rgb(22, 22, 22);
+  font-weight: 500;
+  border-left: 1px solid gainsboro;
+  padding: 10px;
+
+  border-bottom: 1px solid gainsboro;
+  border-radius: 4px;
+}
+.header-items:hover {
+  color: brown;
+  border-right: 1px solid gainsboro;
+}

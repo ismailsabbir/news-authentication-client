@@ -1,0 +1,33 @@
+.news-detals-container {
+  width: 80%;
+  margin: auto;
+  border: 1px solid gainsboro;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+.author-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.detals-img {
+  position: relative;
+}
+.authour-img {
+  position: absolute;
+  left: 40%;
+  bottom: -80px;
+}
+.detals-img1 {
+  width: 100%;
+  height: 500px;
+}
+.dtals-news {
+  margin-top: 80px;
+}
+.detals-btn {
+  text-decoration: none;
+  color: white;
+}

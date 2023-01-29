@@ -1,0 +1,31 @@
+.contact-container {
+  width: 80%;
+  margin: auto;
+}
+.contact-img {
+  width: 100%;
+  height: 500px;
+}
+.contact-img img {
+  width: 100%;
+  height: 100%;
+}
+.message {
+  height: 150px;
+}
+.contact-information {
+  width: 80%;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+.header-2-rights {
+  padding: 20px;
+  background-color: rgb(243, 239, 239);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}

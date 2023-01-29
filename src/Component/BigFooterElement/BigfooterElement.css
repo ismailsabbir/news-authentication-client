@@ -1,0 +1,25 @@
+.container-big {
+  width: 80%;
+  margin: auto;
+}
+.big-foot-con {
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+}
+.big-foot-ele {
+  display: flex;
+  border: 1px solid brown;
+  /* width: 300px; */
+}
+#left {
+  width: 100px;
+  height: 100px;
+}
+#left img {
+  width: 100%;
+  height: 100%;
+}
+.video {
+  border: 1px solid green;
+}
